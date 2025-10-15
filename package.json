@@ -1,0 +1,13 @@
+{
+  "name": "strapi-tuku",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "develop": "strapi develop",
+    "start": "strapi start",
+    "build": "strapi build"
+  },
+  "dependencies": {
+    "strapi": "^5.0.0"
+  }
+}
